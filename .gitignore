@@ -2,6 +2,7 @@
 *.a
 *.so
 
+_gen
 _obj
 _test
 
